@@ -105,6 +105,18 @@ table {
   .s1-width-100 {
     width: 100%;
   }
+
+  .s1-margin-left-auto {
+    margin: 0 0 0 auto;
+  }
+
+  .s1-margin-right-auto {
+    margin: 0 auto 0 0;
+  }
+
+  .s1-margin-auto {
+    margin: 0 auto;
+  }
 }
 @media (min-width: 540px) {
   .s2-display-flex-row {
@@ -163,6 +175,18 @@ table {
 
   .s2-width-100 {
     width: 100%;
+  }
+
+  .s2-margin-left-auto {
+    margin: 0 0 0 auto;
+  }
+
+  .s2-margin-right-auto {
+    margin: 0 auto 0 0;
+  }
+
+  .s2-margin-auto {
+    margin: 0 auto;
   }
 }
 @media (min-width: 720px) {
@@ -223,6 +247,18 @@ table {
   .m1-width-100 {
     width: 100%;
   }
+
+  .m1-margin-left-auto {
+    margin: 0 0 0 auto;
+  }
+
+  .m1-margin-right-auto {
+    margin: 0 auto 0 0;
+  }
+
+  .m1-margin-auto {
+    margin: 0 auto;
+  }
 }
 @media (min-width: 960px) {
   .m2-display-flex-row {
@@ -281,6 +317,18 @@ table {
 
   .m2-width-100 {
     width: 100%;
+  }
+
+  .m2-margin-left-auto {
+    margin: 0 0 0 auto;
+  }
+
+  .m2-margin-right-auto {
+    margin: 0 auto 0 0;
+  }
+
+  .m2-margin-auto {
+    margin: 0 auto;
   }
 }
 @media (min-width: 1200px) {
@@ -341,6 +389,18 @@ table {
   .l1-width-100 {
     width: 100%;
   }
+
+  .l1-margin-left-auto {
+    margin: 0 0 0 auto;
+  }
+
+  .l1-margin-right-auto {
+    margin: 0 auto 0 0;
+  }
+
+  .l1-margin-auto {
+    margin: 0 auto;
+  }
 }
 @media (min-width: 1400px) {
   .l2-display-flex-row {
@@ -399,6 +459,18 @@ table {
 
   .l2-width-100 {
     width: 100%;
+  }
+
+  .l2-margin-left-auto {
+    margin: 0 0 0 auto;
+  }
+
+  .l2-margin-right-auto {
+    margin: 0 auto 0 0;
+  }
+
+  .l2-margin-auto {
+    margin: 0 auto;
   }
 }
 @media (min-width: 1800px) {
@@ -459,6 +531,18 @@ table {
   .x1-width-100 {
     width: 100%;
   }
+
+  .x1-margin-left-auto {
+    margin: 0 0 0 auto;
+  }
+
+  .x1-margin-right-auto {
+    margin: 0 auto 0 0;
+  }
+
+  .x1-margin-auto {
+    margin: 0 auto;
+  }
 }
 @media (min-width: 2200px) {
   .x2-display-flex-row {
@@ -517,6 +601,18 @@ table {
 
   .x2-width-100 {
     width: 100%;
+  }
+
+  .x2-margin-left-auto {
+    margin: 0 0 0 auto;
+  }
+
+  .x2-margin-right-auto {
+    margin: 0 auto 0 0;
+  }
+
+  .x2-margin-auto {
+    margin: 0 auto;
   }
 }
 

@@ -20,3 +20,7 @@
   * display inline: d-inline
 * Different widths in percent are provided, from 10 to 100% ([size]-[width]); as an example:
   * width 10%: width-10
+* Different margins are as follows:
+  * margin-right-auto
+  * margin-left-auto
+  * margin-auto
