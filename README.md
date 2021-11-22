@@ -38,3 +38,9 @@
   * align-items-stretch
 * Text decoration none for any size, this class should be give to the parent, whose anchor tags should have no text decoration
   * text-decoration-none
+* Following 1px solid black borders are available ([size]-[border])
+  * border1-solid-black
+  * border1-solid-black-top
+  * border1-solid-black-right
+  * border1-solid-black-left
+  * border1-solid-black-bottom

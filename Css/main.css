@@ -161,6 +161,26 @@ table {
   .s1-text-decoration-none a {
     text-decoration: none;
   }
+
+  .border1-solid-black {
+    border: 1px solid black;
+  }
+
+  .border1-solid-black-top {
+    border-top: 1px solid black;
+  }
+
+  .border1-solid-black-right {
+    border-right: 1px solid black;
+  }
+
+  .border1-solid-black-left {
+    border-left: 1px solid black;
+  }
+
+  .border1-solid-black-bottom {
+    border-bottom: 1px solid black;
+  }
 }
 @media (min-width: 540px) {
   .s2-display-flex-row {
@@ -275,6 +295,26 @@ table {
 
   .s2-text-decoration-none a {
     text-decoration: none;
+  }
+
+  .border1-solid-black {
+    border: 1px solid black;
+  }
+
+  .border1-solid-black-top {
+    border-top: 1px solid black;
+  }
+
+  .border1-solid-black-right {
+    border-right: 1px solid black;
+  }
+
+  .border1-solid-black-left {
+    border-left: 1px solid black;
+  }
+
+  .border1-solid-black-bottom {
+    border-bottom: 1px solid black;
   }
 }
 @media (min-width: 720px) {
@@ -391,6 +431,26 @@ table {
   .m1-text-decoration-none a {
     text-decoration: none;
   }
+
+  .border1-solid-black {
+    border: 1px solid black;
+  }
+
+  .border1-solid-black-top {
+    border-top: 1px solid black;
+  }
+
+  .border1-solid-black-right {
+    border-right: 1px solid black;
+  }
+
+  .border1-solid-black-left {
+    border-left: 1px solid black;
+  }
+
+  .border1-solid-black-bottom {
+    border-bottom: 1px solid black;
+  }
 }
 @media (min-width: 960px) {
   .m2-display-flex-row {
@@ -505,6 +565,26 @@ table {
 
   .m2-text-decoration-none a {
     text-decoration: none;
+  }
+
+  .border1-solid-black {
+    border: 1px solid black;
+  }
+
+  .border1-solid-black-top {
+    border-top: 1px solid black;
+  }
+
+  .border1-solid-black-right {
+    border-right: 1px solid black;
+  }
+
+  .border1-solid-black-left {
+    border-left: 1px solid black;
+  }
+
+  .border1-solid-black-bottom {
+    border-bottom: 1px solid black;
   }
 }
 @media (min-width: 1200px) {
@@ -621,6 +701,26 @@ table {
   .l1-text-decoration-none a {
     text-decoration: none;
   }
+
+  .border1-solid-black {
+    border: 1px solid black;
+  }
+
+  .border1-solid-black-top {
+    border-top: 1px solid black;
+  }
+
+  .border1-solid-black-right {
+    border-right: 1px solid black;
+  }
+
+  .border1-solid-black-left {
+    border-left: 1px solid black;
+  }
+
+  .border1-solid-black-bottom {
+    border-bottom: 1px solid black;
+  }
 }
 @media (min-width: 1400px) {
   .l2-display-flex-row {
@@ -735,6 +835,26 @@ table {
 
   .l2-text-decoration-none a {
     text-decoration: none;
+  }
+
+  .border1-solid-black {
+    border: 1px solid black;
+  }
+
+  .border1-solid-black-top {
+    border-top: 1px solid black;
+  }
+
+  .border1-solid-black-right {
+    border-right: 1px solid black;
+  }
+
+  .border1-solid-black-left {
+    border-left: 1px solid black;
+  }
+
+  .border1-solid-black-bottom {
+    border-bottom: 1px solid black;
   }
 }
 @media (min-width: 1800px) {
@@ -851,6 +971,26 @@ table {
   .x1-text-decoration-none a {
     text-decoration: none;
   }
+
+  .border1-solid-black {
+    border: 1px solid black;
+  }
+
+  .border1-solid-black-top {
+    border-top: 1px solid black;
+  }
+
+  .border1-solid-black-right {
+    border-right: 1px solid black;
+  }
+
+  .border1-solid-black-left {
+    border-left: 1px solid black;
+  }
+
+  .border1-solid-black-bottom {
+    border-bottom: 1px solid black;
+  }
 }
 @media (min-width: 2200px) {
   .x2-display-flex-row {
@@ -965,6 +1105,26 @@ table {
 
   .x2-text-decoration-none a {
     text-decoration: none;
+  }
+
+  .border1-solid-black {
+    border: 1px solid black;
+  }
+
+  .border1-solid-black-top {
+    border-top: 1px solid black;
+  }
+
+  .border1-solid-black-right {
+    border-right: 1px solid black;
+  }
+
+  .border1-solid-black-left {
+    border-left: 1px solid black;
+  }
+
+  .border1-solid-black-bottom {
+    border-bottom: 1px solid black;
   }
 }
 
