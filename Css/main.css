@@ -130,8 +130,8 @@ table {
     justify-content: center;
   }
 
-  .s1-justify-content-between {
-    justify-content: between;
+  .s1-justify-content-space-between {
+    justify-content: space-between;
   }
 
   .s1-justify-content-around {
@@ -245,8 +245,8 @@ table {
     justify-content: center;
   }
 
-  .s2-justify-content-between {
-    justify-content: between;
+  .s2-justify-content-space-between {
+    justify-content: space-between;
   }
 
   .s2-justify-content-around {
@@ -360,8 +360,8 @@ table {
     justify-content: center;
   }
 
-  .m1-justify-content-between {
-    justify-content: between;
+  .m1-justify-content-space-between {
+    justify-content: space-between;
   }
 
   .m1-justify-content-around {
@@ -475,8 +475,8 @@ table {
     justify-content: center;
   }
 
-  .m2-justify-content-between {
-    justify-content: between;
+  .m2-justify-content-space-between {
+    justify-content: space-between;
   }
 
   .m2-justify-content-around {
@@ -590,8 +590,8 @@ table {
     justify-content: center;
   }
 
-  .l1-justify-content-between {
-    justify-content: between;
+  .l1-justify-content-space-between {
+    justify-content: space-between;
   }
 
   .l1-justify-content-around {
@@ -705,8 +705,8 @@ table {
     justify-content: center;
   }
 
-  .l2-justify-content-between {
-    justify-content: between;
+  .l2-justify-content-space-between {
+    justify-content: space-between;
   }
 
   .l2-justify-content-around {
@@ -820,8 +820,8 @@ table {
     justify-content: center;
   }
 
-  .x1-justify-content-between {
-    justify-content: between;
+  .x1-justify-content-space-between {
+    justify-content: space-between;
   }
 
   .x1-justify-content-around {
@@ -935,8 +935,8 @@ table {
     justify-content: center;
   }
 
-  .x2-justify-content-between {
-    justify-content: between;
+  .x2-justify-content-space-between {
+    justify-content: space-between;
   }
 
   .x2-justify-content-around {
