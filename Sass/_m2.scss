@@ -66,5 +66,20 @@
 	}
 	.m2-justify-content-around {
 		justify-content: around;
+	}  
+	.m2-align-items-baseline {
+		align-items:baseline;
+	}
+	.m2-align-items-center {
+		align-items: center;
+	}
+	.m2-align-items-flex-end {
+		align-items: flex-end;
+	}
+	.m2-align-items-start {
+		align-items: flex-start;
+	}
+	.m2-align-items-stretch {
+		align-items: stretch;
 	}
 }

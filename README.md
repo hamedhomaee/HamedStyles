@@ -30,3 +30,9 @@
   * justify-content-center
   * justify-content-between
   * justify-content-around
+* For flex displays following align items are provided ([size]-[align-items])
+  * align-items-baseline
+  * align-items-center
+  * align-items-flex-start
+  * align-items-flex-end
+  * align-items-stretch

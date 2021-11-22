@@ -66,5 +66,20 @@
 	}
 	.s1-justify-content-around {
 		justify-content: around;
+	}  
+	.s1-align-items-baseline {
+		align-items:baseline;
+	}
+	.s1-align-items-center {
+		align-items: center;
+	}
+	.s1-align-items-flex-end {
+		align-items: flex-end;
+	}
+	.s1-align-items-start {
+		align-items: flex-start;
+	}
+	.s1-align-items-stretch {
+		align-items: stretch;
 	}
 }
