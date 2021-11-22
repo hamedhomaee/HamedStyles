@@ -20,7 +20,13 @@
   * display inline: display-inline
 * Different widths in percentage are provided, from 10 to 100% ([size]-[width]); as an example:
   * width 10%: width-10
-* Different margins are as follows:
+* Different margins are as follows ([size]-[margin]):
   * margin-right-auto
   * margin-left-auto
   * margin-auto
+* For flex displays following justify content options are provided ([size]-[justify-content]):
+  * justify-content-end
+  * justify-content-start
+  * justify-content-center
+  * justify-content-between
+  * justify-content-around
