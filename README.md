@@ -36,3 +36,5 @@
   * align-items-flex-start
   * align-items-flex-end
   * align-items-stretch
+* Text decoration none for any size
+  * text-decoration-none
