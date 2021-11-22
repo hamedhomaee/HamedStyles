@@ -36,5 +36,5 @@
   * align-items-flex-start
   * align-items-flex-end
   * align-items-stretch
-* Text decoration none for any size
+* Text decoration none for any size, this class should be give to the parent, whose anchor tags should have no text decoration
   * text-decoration-none
