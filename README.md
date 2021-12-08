@@ -5,7 +5,7 @@
 ### The main minified file to use resides in "Css" folder.
   
 * Following display sizes with respective acronyms are supported:
-  * min-width 480px = s1
+  * min-width 1px = s1
   * min-width 540px = s2
   * min-width 720px = m1
   * min-width 960px = m2
@@ -15,7 +15,9 @@
   * min-width 2200px = x2
 * Different displays are provided. The size should be prepended ([size]-[display]):
   * display flex row: display-flex-row
+  * display flex row reverse: display-flex-row-reverse
   * display flex column: display-flex-column
+  * display flex column reverse: display-flex-column-reverse
   * display block: display-block
   * display inline: display-inline
 * Different widths in percentage are provided, from 10 to 100% ([size]-[width]); as an example:
