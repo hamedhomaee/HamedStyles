@@ -172,7 +172,7 @@ table {
     align-items: stretch;
   }
 
-  .s1-text-decoration-none {
+  .s1-text-decoration-none a {
     text-decoration: none;
   }
 }
@@ -301,7 +301,7 @@ table {
     align-items: stretch;
   }
 
-  .s2-text-decoration-none {
+  .s2-text-decoration-none a {
     text-decoration: none;
   }
 }
@@ -430,7 +430,7 @@ table {
     align-items: stretch;
   }
 
-  .m1-text-decoration-none {
+  .m1-text-decoration-none a {
     text-decoration: none;
   }
 }
@@ -559,7 +559,7 @@ table {
     align-items: stretch;
   }
 
-  .m2-text-decoration-none {
+  .m2-text-decoration-none a {
     text-decoration: none;
   }
 }
@@ -688,7 +688,7 @@ table {
     align-items: stretch;
   }
 
-  .l1-text-decoration-none {
+  .l1-text-decoration-none a {
     text-decoration: none;
   }
 }
@@ -817,7 +817,7 @@ table {
     align-items: stretch;
   }
 
-  .l2-text-decoration-none {
+  .l2-text-decoration-none a {
     text-decoration: none;
   }
 }
@@ -946,7 +946,7 @@ table {
     align-items: stretch;
   }
 
-  .x1-text-decoration-none {
+  .x1-text-decoration-none a {
     text-decoration: none;
   }
 }
@@ -1075,7 +1075,7 @@ table {
     align-items: stretch;
   }
 
-  .x2-text-decoration-none {
+  .x2-text-decoration-none a {
     text-decoration: none;
   }
 }
