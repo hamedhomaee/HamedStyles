@@ -57,7 +57,7 @@
 * Form with two elements at each row
 ```
 <div class="s1-width-10 s1-display-flex-column">
-    <div class="s1-width-100 s1-display-flex-row s1-justify-content-start">
+    <div class="s1-width-100 s1-display-flex-row s1-justify-content-start s1-align-items-center">
         <div class="s1-width-30">Label</div>
         <div class="s1-width-70">
             <input type="text" class="s1-width-100">
