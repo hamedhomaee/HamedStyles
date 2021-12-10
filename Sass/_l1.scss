@@ -96,4 +96,31 @@
 	.l1-text-decoration-none a {
 		text-decoration: none;
 	}
+	.l1-justify-self-end {
+		justify-self: end;
+	}
+	.l1-justify-self-start {
+		justify-self: start;
+	}
+	.l1-justify-self-center {
+		justify-self: center;
+	}
+	.l1-justify-self-stretch {
+		justify-self: stretch;
+	}
+	.l1-justify-self-baseline {
+		justify-self: baseline;
+	}
+	.l1-align-self-start {
+		align-self: start;
+	}
+	.l1-align-self-end {
+		align-self: end;
+	}
+	.l1-align-self-center {
+		align-self: center;
+	}
+	.l1-align-self-stretch {
+		align-self: stretch;
+	}
 }

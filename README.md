@@ -39,5 +39,29 @@
   * align-items-flex-start
   * align-items-flex-end
   * align-items-stretch
+* For flex displays following justify self are provided ([size]-[justify-self])
+  * justify-self-end
+  * justify-self-start
+  * justify-self-center
+  * justify-self-stretch
+  * justify-self-baseline
+* For flex displays following align self are provided ([size]-[align-self])
+  * align-self-center
+  * align-self-start
+  * align-self-end
+  * align-self-stretch
 * Text decoration none for any size, this class should be given to the parent, whose anchor tags should have no text decoration
   * text-decoration-none
+
+### Some useful pre-made items are available here, which can be easily customized. <b>Note:</b> styles like padding, border, etc should be set manually, since they are very versatile.
+* Form with one or two elements at each row
+```
+<div class="s1-width-10 s1-display-flex-column">
+    <div class="s1-width-100 s1-display-flex-row s1-justify-content-start">
+        <div class="s1-width-30">Label</div>
+        <div class="s1-width-70">
+            <input type="text" class="s1-width-100">
+        </div>
+    </div>
+</div>
+```
