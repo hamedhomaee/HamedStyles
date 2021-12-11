@@ -211,6 +211,10 @@ table {
   .s1-align-self-stretch {
     align-self: stretch;
   }
+
+  .s1-flex-wrap {
+    flex-wrap: wrap;
+  }
 }
 @media (min-width: 540px) {
   .s2-display-flex-row {
@@ -375,6 +379,10 @@ table {
 
   .s2-align-self-stretch {
     align-self: stretch;
+  }
+
+  .s2-flex-wrap {
+    flex-wrap: wrap;
   }
 }
 @media (min-width: 720px) {
@@ -541,6 +549,10 @@ table {
   .m1-align-self-stretch {
     align-self: stretch;
   }
+
+  .m1-flex-wrap {
+    flex-wrap: wrap;
+  }
 }
 @media (min-width: 960px) {
   .m2-display-flex-row {
@@ -705,6 +717,10 @@ table {
 
   .m2-align-self-stretch {
     align-self: stretch;
+  }
+
+  .m2-flex-wrap {
+    flex-wrap: wrap;
   }
 }
 @media (min-width: 1200px) {
@@ -871,6 +887,10 @@ table {
   .l1-align-self-stretch {
     align-self: stretch;
   }
+
+  .l1-flex-wrap {
+    flex-wrap: wrap;
+  }
 }
 @media (min-width: 1400px) {
   .l2-display-flex-row {
@@ -1035,6 +1055,10 @@ table {
 
   .l2-align-self-stretch {
     align-self: stretch;
+  }
+
+  .l2-flex-wrap {
+    flex-wrap: wrap;
   }
 }
 @media (min-width: 1800px) {
@@ -1201,6 +1225,10 @@ table {
   .x1-align-self-stretch {
     align-self: stretch;
   }
+
+  .x1-flex-wrap {
+    flex-wrap: wrap;
+  }
 }
 @media (min-width: 2200px) {
   .x2-display-flex-row {
@@ -1365,6 +1393,10 @@ table {
 
   .x2-align-self-stretch {
     align-self: stretch;
+  }
+
+  .x2-flex-wrap {
+    flex-wrap: wrap;
   }
 }
 

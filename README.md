@@ -50,7 +50,9 @@
   * align-self-start
   * align-self-end
   * align-self-stretch
-* Text decoration none for any size, this class should be given to the parent, whose anchor tags should have no text decoration
+* For flex displays, to set flex-wrap to "wrap" ([size]-[flex-wrap])
+  * flex-wrap
+* Text decoration none for any size, this class should be given to the parent, whose anchor tags should have no text decoration ([size]-[text-decoration-none])
   * text-decoration-none
 
 ### Some useful pre-made items are available here, which can be easily customized. <b>Note:</b> styles like padding, border, etc should be set manually, since they are very versatile.
