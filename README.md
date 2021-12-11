@@ -54,7 +54,7 @@
   * text-decoration-none
 
 ### Some useful pre-made items are available here, which can be easily customized. <b>Note:</b> styles like padding, border, etc should be set manually, since they are very versatile.
-* Form with two elements at each row
+* Form with two elements at each row and one button
 ```
 <div class="s1-width-10 s1-display-flex-column">
     <div class="s1-width-100 s1-display-flex-row s1-justify-content-start s1-align-items-center">
@@ -62,6 +62,9 @@
         <div class="s1-width-70">
             <input type="text" class="s1-width-100">
         </div>
+    </div>
+    <div class="s1-width-100 s1-display-flex-row s1-justify-content-center s1-align-items-center">
+          <input type="submit" value="send">
     </div>
 </div>
 ```
