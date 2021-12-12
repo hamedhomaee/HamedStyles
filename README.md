@@ -54,9 +54,17 @@
   * flex-wrap
 * Text decoration none for any size, this class should be given to the parent, whose anchor tags should have no text decoration ([size]-[text-decoration-none])
   * text-decoration-none
-
+* Following text alignment are provided ([size]-[text-alignment])
+  * text-align-start
+  * text-align-end
+  * text-align-left
+  * text-align-right
+  * text-align-center
+  * text-align-justify
+  * text-align-justify-all
+  * text-align-match-parent
 ### Some useful pre-made items are available here, which can be easily customized. <b>Note:</b> styles like padding, border, etc should be set manually, since they are very versatile.
-* Form with two elements at each row and one button
+* Form with two elements at each row and one row with content at center
 ```
 <div class="s1-width-10 s1-display-flex-column">
     <div class="s1-width-100 s1-display-flex-row s1-justify-content-start s1-align-items-center">

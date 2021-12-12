@@ -215,6 +215,38 @@ table {
   .s1-flex-wrap {
     flex-wrap: wrap;
   }
+
+  .s1-text-align-start {
+    text-align: start;
+  }
+
+  .s1-text-align-end {
+    text-align: end;
+  }
+
+  .s1-text-align-left {
+    text-align: left;
+  }
+
+  .s1-text-align-right {
+    text-align: right;
+  }
+
+  .s1-text-align-center {
+    text-align: center;
+  }
+
+  .s1-text-align-justify {
+    text-align: justify;
+  }
+
+  .s1-text-align-justify-all {
+    text-align: justify-all;
+  }
+
+  .s1-text-align-match-parent {
+    text-align: match-parent;
+  }
 }
 @media (min-width: 540px) {
   .s2-display-flex-row {
@@ -383,6 +415,38 @@ table {
 
   .s2-flex-wrap {
     flex-wrap: wrap;
+  }
+
+  .s2-text-align-start {
+    text-align: start;
+  }
+
+  .s2-text-align-end {
+    text-align: end;
+  }
+
+  .s2-text-align-left {
+    text-align: left;
+  }
+
+  .s2-text-align-right {
+    text-align: right;
+  }
+
+  .s2-text-align-center {
+    text-align: center;
+  }
+
+  .s2-text-align-justify {
+    text-align: justify;
+  }
+
+  .s2-text-align-justify-all {
+    text-align: justify-all;
+  }
+
+  .s2-text-align-match-parent {
+    text-align: match-parent;
   }
 }
 @media (min-width: 720px) {
@@ -553,6 +617,38 @@ table {
   .m1-flex-wrap {
     flex-wrap: wrap;
   }
+
+  .m1-text-align-start {
+    text-align: start;
+  }
+
+  .m1-text-align-end {
+    text-align: end;
+  }
+
+  .m1-text-align-left {
+    text-align: left;
+  }
+
+  .m1-text-align-right {
+    text-align: right;
+  }
+
+  .m1-text-align-center {
+    text-align: center;
+  }
+
+  .m1-text-align-justify {
+    text-align: justify;
+  }
+
+  .m1-text-align-justify-all {
+    text-align: justify-all;
+  }
+
+  .m1-text-align-match-parent {
+    text-align: match-parent;
+  }
 }
 @media (min-width: 960px) {
   .m2-display-flex-row {
@@ -721,6 +817,38 @@ table {
 
   .m2-flex-wrap {
     flex-wrap: wrap;
+  }
+
+  .m2-text-align-start {
+    text-align: start;
+  }
+
+  .m2-text-align-end {
+    text-align: end;
+  }
+
+  .m2-text-align-left {
+    text-align: left;
+  }
+
+  .m2-text-align-right {
+    text-align: right;
+  }
+
+  .m2-text-align-center {
+    text-align: center;
+  }
+
+  .m2-text-align-justify {
+    text-align: justify;
+  }
+
+  .m2-text-align-justify-all {
+    text-align: justify-all;
+  }
+
+  .m2-text-align-match-parent {
+    text-align: match-parent;
   }
 }
 @media (min-width: 1200px) {
@@ -891,6 +1019,38 @@ table {
   .l1-flex-wrap {
     flex-wrap: wrap;
   }
+
+  .l1-text-align-start {
+    text-align: start;
+  }
+
+  .l1-text-align-end {
+    text-align: end;
+  }
+
+  .l1-text-align-left {
+    text-align: left;
+  }
+
+  .l1-text-align-right {
+    text-align: right;
+  }
+
+  .l1-text-align-center {
+    text-align: center;
+  }
+
+  .l1-text-align-justify {
+    text-align: justify;
+  }
+
+  .l1-text-align-justify-all {
+    text-align: justify-all;
+  }
+
+  .l1-text-align-match-parent {
+    text-align: match-parent;
+  }
 }
 @media (min-width: 1400px) {
   .l2-display-flex-row {
@@ -1059,6 +1219,38 @@ table {
 
   .l2-flex-wrap {
     flex-wrap: wrap;
+  }
+
+  .l2-text-align-start {
+    text-align: start;
+  }
+
+  .l2-text-align-end {
+    text-align: end;
+  }
+
+  .l2-text-align-left {
+    text-align: left;
+  }
+
+  .l2-text-align-right {
+    text-align: right;
+  }
+
+  .l2-text-align-center {
+    text-align: center;
+  }
+
+  .l2-text-align-justify {
+    text-align: justify;
+  }
+
+  .l2-text-align-justify-all {
+    text-align: justify-all;
+  }
+
+  .l2-text-align-match-parent {
+    text-align: match-parent;
   }
 }
 @media (min-width: 1800px) {
@@ -1229,6 +1421,38 @@ table {
   .x1-flex-wrap {
     flex-wrap: wrap;
   }
+
+  .x1-text-align-start {
+    text-align: start;
+  }
+
+  .x1-text-align-end {
+    text-align: end;
+  }
+
+  .x1-text-align-left {
+    text-align: left;
+  }
+
+  .x1-text-align-right {
+    text-align: right;
+  }
+
+  .x1-text-align-center {
+    text-align: center;
+  }
+
+  .x1-text-align-justify {
+    text-align: justify;
+  }
+
+  .x1-text-align-justify-all {
+    text-align: justify-all;
+  }
+
+  .x1-text-align-match-parent {
+    text-align: match-parent;
+  }
 }
 @media (min-width: 2200px) {
   .x2-display-flex-row {
@@ -1397,6 +1621,38 @@ table {
 
   .x2-flex-wrap {
     flex-wrap: wrap;
+  }
+
+  .x2-text-align-start {
+    text-align: start;
+  }
+
+  .x2-text-align-end {
+    text-align: end;
+  }
+
+  .x2-text-align-left {
+    text-align: left;
+  }
+
+  .x2-text-align-right {
+    text-align: right;
+  }
+
+  .x2-text-align-center {
+    text-align: center;
+  }
+
+  .x2-text-align-justify {
+    text-align: justify;
+  }
+
+  .x2-text-align-justify-all {
+    text-align: justify-all;
+  }
+
+  .x2-text-align-match-parent {
+    text-align: match-parent;
   }
 }
 
