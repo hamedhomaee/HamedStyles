@@ -150,4 +150,22 @@
 	.s2-text-align-match-parent {
 		text-align: match-parent;
 	}
+	.s2-resize-none {
+		resize: none;
+	}
+	.s2-resize-both {
+		resize: both;
+	}
+	.s2-resize-horizontal {
+		resize: horizontal;
+	}
+	.s2-resize-vertical {
+		resize: vertical;
+	}
+	.s2-resize-block {
+		resize: block;
+	}
+	.s2-resize-inline {
+		resize: inline;
+	}
 }

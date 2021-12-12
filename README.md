@@ -63,6 +63,13 @@
   * text-align-justify
   * text-align-justify-all
   * text-align-match-parent
+* Following options for <b>textarea</b> element is available ([size]-[resize])
+  * resize-none
+  * resize-both
+  * resize-horizontal
+  * resize-vertical
+  * resize-block
+  * resize-inline
 ### Some useful pre-made items are available here, which can be easily customized. <b>Note:</b> styles like padding, border, etc should be set manually, since they are very versatile.
 * Form with two elements at each row and one row with content at center
 ```

@@ -150,4 +150,22 @@
 	.x1-text-align-match-parent {
 		text-align: match-parent;
 	}
+	.x1-resize-none {
+		resize: none;
+	}
+	.x1-resize-both {
+		resize: both;
+	}
+	.x1-resize-horizontal {
+		resize: horizontal;
+	}
+	.x1-resize-vertical {
+		resize: vertical;
+	}
+	.x1-resize-block {
+		resize: block;
+	}
+	.x1-resize-inline {
+		resize: inline;
+	}
 }
