@@ -271,6 +271,10 @@ table {
   .s1-resize-inline {
     resize: inline;
   }
+
+  .s1-display-inline-block {
+    display: inline-block;
+  }
 }
 @media (min-width: 540px) {
   .s2-display-flex-row {
@@ -495,6 +499,10 @@ table {
 
   .s2-resize-inline {
     resize: inline;
+  }
+
+  .s2-display-inline-block {
+    display: inline-block;
   }
 }
 @media (min-width: 720px) {
@@ -721,6 +729,10 @@ table {
   .m1-resize-inline {
     resize: inline;
   }
+
+  .m1-display-inline-block {
+    display: inline-block;
+  }
 }
 @media (min-width: 960px) {
   .m2-display-flex-row {
@@ -945,6 +957,10 @@ table {
 
   .m2-resize-inline {
     resize: inline;
+  }
+
+  .m2-display-inline-block {
+    display: inline-block;
   }
 }
 @media (min-width: 1200px) {
@@ -1171,6 +1187,10 @@ table {
   .l1-resize-inline {
     resize: inline;
   }
+
+  .l1-display-inline-block {
+    display: inline-block;
+  }
 }
 @media (min-width: 1400px) {
   .l2-display-flex-row {
@@ -1395,6 +1415,10 @@ table {
 
   .l2-resize-inline {
     resize: inline;
+  }
+
+  .l2-display-inline-block {
+    display: inline-block;
   }
 }
 @media (min-width: 1800px) {
@@ -1621,6 +1645,10 @@ table {
   .x1-resize-inline {
     resize: inline;
   }
+
+  .x1-display-inline-block {
+    display: inline-block;
+  }
 }
 @media (min-width: 2200px) {
   .x2-display-flex-row {
@@ -1845,6 +1873,10 @@ table {
 
   .x2-resize-inline {
     resize: inline;
+  }
+
+  .x2-display-inline-block {
+    display: inline-block;
   }
 }
 

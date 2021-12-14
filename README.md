@@ -20,6 +20,7 @@
   * display flex column reverse: display-flex-column-reverse
   * display block: display-block
   * display inline: display-inline
+  * display inline-block: display-inline-block 
 * Different widths in percentage are provided, from 10 to 100% ([size]-[width]); as an example:
   * width 10%: width-10
 * Different margins are as follows ([size]-[margin]):
