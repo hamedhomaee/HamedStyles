@@ -14,13 +14,14 @@
   * min-width 1800px = x1
   * min-width 2200px = x2
 * Different displays are provided. The size should be prepended ([size]-[display]):
-  * display flex row: display-flex-row
-  * display flex row reverse: display-flex-row-reverse
-  * display flex column: display-flex-column
-  * display flex column reverse: display-flex-column-reverse
-  * display block: display-block
-  * display inline: display-inline
-  * display inline-block: display-inline-block 
+  * display-flex-row
+  * display-flex-row-reverse
+  * display-flex-column
+  * display-flex-column-reverse
+  * display-block
+  * display-inline
+  * display-inline-block 
+  * display-none 
 * Different widths in percentage are provided, from 10 to 100% ([size]-[width]); as an example:
   * width 10%: width-10
 * Different margins are as follows ([size]-[margin]):
