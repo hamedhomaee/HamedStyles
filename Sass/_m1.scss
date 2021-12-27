@@ -174,4 +174,10 @@
 	.m1-display-none {
 		display: none;
 	}
+	.m1-flex-shrink-disable {
+		flex-shrink: 0;
+	}
+	.m1-flex-grow-enable {
+		flex-grow: 1;
+	}
 }
