@@ -58,8 +58,10 @@
   * flex-shrink-disable
 * For flex displays, to enable flex-grow (by default it is disabled) ([size]-[flex-grow])
   * flex-grow-enable
-* Text decoration none for any size, this class should be given to the parent, whose anchor tags should have no text decoration ([size]-[text-decoration-none])
+* Text decoration none, this class should be given to the parent, whose anchor tags should have no text decoration ([size]-[text-decoration])
   * text-decoration-none
+* Text decoration none, this class should be given to the anchor tag itself ([size]-[text-decoration])
+  * text-decoration-none-self
 * Following text alignment are provided ([size]-[text-alignment])
   * text-align-start
   * text-align-end
